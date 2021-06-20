@@ -1,5 +1,5 @@
 {
-    "name": "i2c-lcd%keypad-test",
+    "name": "i2c-lcd%keypad",
     "description": "",
     "dependencies": {
         "core": "*",
